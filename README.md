@@ -1,6 +1,6 @@
 ## Introduction
 
-This project is actually made by (Code with antonio)[https://www.youtube.com/watch?v=ZbX4Ok9YX94&t=29323s]
+This project is actually made by [Code with antonio](https://www.youtube.com/watch?v=ZbX4Ok9YX94&t=29323s)
 
 I wrote the code, and added more functions, and modified it
 

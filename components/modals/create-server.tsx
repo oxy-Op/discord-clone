@@ -123,6 +123,13 @@ export const ServerModal = () => {
                       />
                     </FormControl>
                     <FormMessage />
+
+                    <a
+                      className="underline text-indigo-500"
+                      href="http://localhost:3000/invite/01fb727b-7c94-4b2a-a5ee-9ef54da3c303"
+                    >
+                      Join this server
+                    </a>
                   </FormItem>
                 )}
               />

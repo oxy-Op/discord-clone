@@ -122,6 +122,12 @@ export const InitialModal = () => {
                       />
                     </FormControl>
                     <FormMessage />
+                    <p>
+                      Join this
+                      <a href="http://localhost:3000/invite/01fb727b-7c94-4b2a-a5ee-9ef54da3c303">
+                        server
+                      </a>
+                    </p>
                   </FormItem>
                 )}
               />
